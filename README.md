@@ -28,7 +28,7 @@ An intelligent traffic control solution that leverages **YOLOv8** and **real-tim
 ---
 
 ## 📷 Screenshots
-`![Sample Output](images/screenshot1.png)`
+`![Sample Output](images/Screenshot.png)`
 
 ---
 
